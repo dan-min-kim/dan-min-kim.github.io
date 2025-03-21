@@ -4,7 +4,12 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/octojekyll.png" caption="Octojekyll." width=300 align="right" %}
+{% include image.html url="/images/profile.jpg" width=300 align="right" %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc blandit mattis nulla eu cursus. Fusce finibus, orci sit amet tincidunt fermentum, risus ante pharetra nisi, eget tempus tellus tellus ut est. Nunc tempus cursus arcu mattis ultricies. Cras volutpat purus et lectus facilisis tempor. Suspendisse at lorem feugiat, feugiat massa vel, scelerisque dolor. Proin justo nisl, mattis eu sapien in, efficitur fringilla nulla. Phasellus placerat, lacus in venenatis tristique, risus dolor eleifend felis, vitae finibus augue nibh ut libero. Morbi sit amet tincidunt lorem.
+I am currently an instructor in the Department of Mathematics at Virginia Tech. 
+In addition to teaching, I serve as coordinator of Intro to Multivariable Calculus
+as well as co-organize a seminar speaking series called the Math Career Connections 
+series. The aim of the Math Career Connections Series is to expose undergraduate 
+and graduate students to career paths in industry by inviting speakers with career 
+experience in industrial settings with math backgrounds. 
 
