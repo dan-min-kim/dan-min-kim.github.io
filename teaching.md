@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Here is a simple list of my history as an instructor in the math department. This history is broken into two periods: from 2014 to 2021 when I was a graduate student and from 2021 to present as instructional faculty. 
+Here is a simple list of my history as an instructor in the math department at Virginia Tech. This history is broken into two periods: from 2014 to 2021 when I was a graduate student and from 2021 to present as instructional faculty. 
 
 Virginia Tech: 2014 to Spring 2021
 === 

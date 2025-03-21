@@ -1,1 +1,35 @@
-<iframe src="//docs.google.com/viewer?url=https://dl.dropboxusercontent.com/s/{{ include.code}}?dl=0&hl=en_US&embedded=true" class="gde-frame" style="width:{{include.width}}%; height:{{include.height}}px; border: none;" scrolling="no"></iframe>
+<html>
+
+<head>
+    <title>Embedded CV</title>
+</head>
+<style>
+    .pdf {
+        width: 100%;
+        aspect-ratio: 4 / 3;
+    }
+    .pdf,
+    html,
+    body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+   h1,
+    h3 {
+        text-align: center;
+    }
+
+    h1 {
+        color: black;
+    }
+</style>
+
+<body>
+        <iframe class="pdf" 
+                src="/kim-daniel.pdf"
+            width="800" height="500">
+        </iframe>
+</body>
+
+</html>
