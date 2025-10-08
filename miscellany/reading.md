@@ -4,4 +4,4 @@ title: Reading
 permalink: /miscellany/reading/
 ---
 
-This will be a list of books I've read. 
+* Book: __Daemon__, Author: Daniel Suarez, Start Date: ~September 12th, End Date: October 7th
